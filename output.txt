@@ -1,0 +1,208 @@
+ULD
+Status:  normal
+model: 1103
+rotation_speed: 35990
+motor_current: 0.5
+pump_temp: 0
+present_rotation: 65
+rated_speed: 36000
+axis1_unbal_MB: 4
+axis2_unbal_MB: 4
+X1_MB: 3
+Y1_MB: 3
+X2_MB: 3
+Y2_MB: 10
+Z_MB: 1
+
+***Repl Closed***
+P28
+Status:  normal
+model: 2003
+rotation_speed: 27000
+motor_current: 0.5
+pump_temp: 0
+present_rotation: 45
+rated_speed: 27000
+axis1_unbal_MB: 3
+axis2_unbal_MB: 2
+X1_MB: 3
+Y1_MB: 4
+X2_MB: 3
+Y2_MB: 3
+Z_MB: 2
+
+***Repl Closed***
+VTC
+Status:  normal
+model: 
+rotation_speed: 35990
+motor_current: 0.7000000000000001
+pump_temp: 0
+present_rotation: 65
+rated_speed: 36000
+axis1_unbal_MB: 3
+axis2_unbal_MB: 0
+X1_MB: 2
+Y1_MB: 2
+X2_MB: 0
+Y2_MB: 3
+Z_MB: 1
+
+***Repl Closed***
+P0
+Status:  deceleration
+
+***Repl Closed***
+LD
+Status:  normal
+model: 1103
+rotation_speed: 36000
+motor_current: 0.6000000000000001
+pump_temp: 0
+present_rotation: 65
+rated_speed: 36000
+axis1_unbal_MB: 2
+axis2_unbal_MB: 2
+X1_MB: 1
+Y1_MB: 1
+X2_MB: 2
+Y2_MB: 1
+Z_MB: 1
+
+***Repl Closed***
+C1
+Status:  normal
+model: 1103
+rotation_speed: 36000
+motor_current: 0.7000000000000001
+pump_temp: 0
+present_rotation: 65
+rated_speed: 36000
+axis1_unbal_MB: 2
+axis2_unbal_MB: 1
+X1_MB: 1
+Y1_MB: 1
+X2_MB: 1
+Y2_MB: 1
+Z_MB: 0
+
+***Repl Closed***
+C2
+Status:  normal
+model: 1103
+rotation_speed: 36000
+motor_current: 0.5
+pump_temp: 0
+present_rotation: 65
+rated_speed: 36000
+axis1_unbal_MB: 1
+axis2_unbal_MB: 1
+X1_MB: 1
+Y1_MB: 1
+X2_MB: 1
+Y2_MB: 1
+Z_MB: 1
+
+***Repl Closed***
+C3
+Status:  normal
+model: 1103
+rotation_speed: 36000
+motor_current: 0.5
+pump_temp: 0
+present_rotation: 65
+rated_speed: 36000
+axis1_unbal_MB: 4
+axis2_unbal_MB: 3
+X1_MB: 3
+Y1_MB: 3
+X2_MB: 2
+Y2_MB: 11
+Z_MB: 0
+
+***Repl Closed***
+P25
+Status:  normal
+model: 1103
+rotation_speed: 36000
+motor_current: 0.7000000000000001
+pump_temp: 0
+present_rotation: 65
+rated_speed: 36000
+axis1_unbal_MB: 4
+axis2_unbal_MB: 1
+X1_MB: 2
+Y1_MB: 2
+X2_MB: 10
+Y2_MB: 1
+Z_MB: 1
+
+***Repl Closed***
+P25
+Status:  normal
+model: 1103
+rotation_speed: 36000
+motor_current: 0.6000000000000001
+pump_temp: 0
+present_rotation: 65
+rated_speed: 36000
+axis1_unbal_MB: 4
+axis2_unbal_MB: 2
+X1_MB: 2
+Y1_MB: 2
+X2_MB: 1
+Y2_MB: 1
+Z_MB: 1
+
+***Repl Closed***
+C4
+Status:  normal
+model: 1103
+rotation_speed: 36000
+motor_current: 0.6000000000000001
+pump_temp: 0
+present_rotation: 65
+rated_speed: 36000
+axis1_unbal_MB: 4
+axis2_unbal_MB: 2
+X1_MB: 2
+Y1_MB: 2
+X2_MB: 1
+Y2_MB: 1
+Z_MB: 0
+
+***Repl Closed***
+P26
+Status:  normal
+model: 2003
+rotation_speed: 27000
+motor_current: 0.6000000000000001
+pump_temp: 0
+present_rotation: 45
+rated_speed: 27000
+axis1_unbal_MB: 6
+axis2_unbal_MB: 5
+X1_MB: 7
+Y1_MB: 8
+X2_MB: 6
+Y2_MB: 6
+Z_MB: 1
+
+***Repl Closed***
+P27
+Status:  normal
+model: 2003
+rotation_speed: 27000
+motor_current: 0.5
+pump_temp: 0
+present_rotation: 45
+rated_speed: 27000
+axis1_unbal_MB: 2
+axis2_unbal_MB: 3
+X1_MB: 4
+Y1_MB: 4
+X2_MB: 6
+Y2_MB: 7
+Z_MB: 3
+
+***Repl Closed***
