@@ -1,2 +1,2 @@
 # TMP_RS232
-TShimadzu turbo Molecular Pump Parameter monitoring
+Shimadzu turbo Molecular Pump Parameter monitoring
